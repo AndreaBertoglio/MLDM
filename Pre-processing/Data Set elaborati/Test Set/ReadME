@@ -1,0 +1,4 @@
+Qui si trovano i test set già elaborati da utilizzare
+
+Se il training set usa la gestione degli outlier globali allore usare "test_set_scalato.csv"
+In caso contrario usare "test_set_scalato_soloMisure.csv"
