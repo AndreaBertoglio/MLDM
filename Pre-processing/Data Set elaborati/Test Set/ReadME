@@ -2,3 +2,5 @@ Qui si trovano i test set già elaborati da utilizzare
 
 Se il training set usa la gestione degli outlier globali allore usare "test_set_scalato.csv"
 In caso contrario usare "test_set_scalato_soloMisure.csv"
+
+Per le versioni con Cluster utilizzare i test set "test_set_cluster_scalato" e "test_set_cluster_soloMisure" nello stesso modo dei precedenti
